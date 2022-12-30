@@ -1,0 +1,16 @@
+rasterio
+numpy
+matplotlib
+torch
+scikit-image
+scikit-learn 
+torchvision
+monai
+segmentation_models_pytorch
+torchmetrics
+pytorch-lightning 
+pandas
+albumentations
+streamlit
+onnx
+onnxruntime
